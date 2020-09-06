@@ -11,3 +11,6 @@
  - [Hadoop YARN | Hadoop YARN Architecture | Hadoop YARN Tutorial] [Blog]
   https://data-flair.training/blogs/hadoop-yarn-tutorial/
   
+ - [Hadoop YARN | Hadoop YARN Architecture | Hadoop YARN Tutorial] [Blog]
+  https://www.edureka.co/blog/hadoop-yarn-tutorial/
+  
