@@ -18,6 +18,9 @@
   
 ### SPARK
 
+- [Spark Architecture] 
+https://www.javatpoint.com/apache-spark-architecture
+
 - [PySpark Project] 
 https://github.com/AlexIoannides/pyspark-example-project
 
