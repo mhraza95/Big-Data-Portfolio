@@ -21,6 +21,9 @@
 - [Spark Architecture] 
 https://www.javatpoint.com/apache-spark-architecture
 
+- [Spark | Accumulator | Broadcaster]
+https://www.tutorialspoint.com/pyspark/pyspark_broadcast_and_accumulator.htm
+
 - [PySpark Project] 
 https://github.com/AlexIoannides/pyspark-example-project
 
