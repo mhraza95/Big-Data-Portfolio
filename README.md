@@ -24,6 +24,9 @@ https://www.javatpoint.com/apache-spark-architecture
 - [Spark | Accumulator | Broadcaster]
 https://www.tutorialspoint.com/pyspark/pyspark_broadcast_and_accumulator.htm
 
+- [Spark | DAG]
+https://www.tutorialkart.com/apache-spark/dag-and-physical-execution-plan/
+
 - [PySpark Project] 
 https://github.com/AlexIoannides/pyspark-example-project
 
