@@ -29,4 +29,7 @@ https://github.com/AlexIoannides/pyspark-example-project
 
 - [PySpark Examples]
 https://github.com/rich-iannone/so-many-pyspark-examples
+
+- [Spark Submit | PySpark]
+https://towardsdatascience.com/successful-spark-submits-for-python-projects-53012ca7405a
   
