@@ -32,4 +32,7 @@ https://github.com/rich-iannone/so-many-pyspark-examples
 
 - [Spark Submit | PySpark]
 https://towardsdatascience.com/successful-spark-submits-for-python-projects-53012ca7405a
+
+- [Spark Submit | Commands]
+https://docs.cloudera.com/runtime/7.2.1/running-spark-applications/topics/spark-submit-options.html
   
