@@ -27,6 +27,9 @@ https://www.tutorialspoint.com/pyspark/pyspark_broadcast_and_accumulator.htm
 - [Spark | DAG]
 https://www.tutorialkart.com/apache-spark/dag-and-physical-execution-plan/
 
+-[Spark RDD Operations-Transformation & Action with Example]
+https://data-flair.training/blogs/spark-rdd-operations-transformations-actions/
+
 - [PySpark Project] 
 https://github.com/AlexIoannides/pyspark-example-project
 
