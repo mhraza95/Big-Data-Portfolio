@@ -44,4 +44,9 @@ https://towardsdatascience.com/successful-spark-submits-for-python-projects-5301
 
 - [Spark Submit | Commands]
 https://docs.cloudera.com/runtime/7.2.1/running-spark-applications/topics/spark-submit-options.html
+
+### HIVE
+
+- [Hive | Tutorial]
+https://www.javatpoint.com/what-is-hive
   
