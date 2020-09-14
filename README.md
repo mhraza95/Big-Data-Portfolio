@@ -2,6 +2,11 @@
 
 ## Tutorial resource list
 
+# HADOOP
+- [Hadoop | Installation]
+https://youtu.be/g7Qpnmi0Q-s
+https://towardsdatascience.com/installing-hadoop-3-2-1-single-node-cluster-on-windows-10-ac258dd48aef
+
 ### HDFS
 - [Hadoop Architecture | HDFS Architecture | HDFS Tutorial] [Video]
   https://www.youtube.com/watch?v=m9v9lky3zcE&list=PL9ooVrP1hQOFrYxqxb0NJCdCABPZNo0pD&index=16
