@@ -55,3 +55,7 @@ https://docs.cloudera.com/runtime/7.2.1/running-spark-applications/topics/spark-
 - [Hive | Tutorial]
 https://www.javatpoint.com/what-is-hive
   
+### HBase
+
+- [HBase | Tutorial]
+https://sparkbyexamples.com/apache-hbase-tutorial/
