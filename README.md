@@ -59,3 +59,11 @@ https://www.javatpoint.com/what-is-hive
 
 - [HBase | Tutorial]
 https://sparkbyexamples.com/apache-hbase-tutorial/
+
+## Interview Questions
+
+### Hive Interview Questions
+
+- [Hive | Interview Questions]
+https://www.edureka.co/blog/interview-questions/hive-interview-questions/
+
