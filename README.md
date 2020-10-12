@@ -67,3 +67,9 @@ https://sparkbyexamples.com/apache-hbase-tutorial/
 - [Hive | Interview Questions]
 https://www.edureka.co/blog/interview-questions/hive-interview-questions/
 
+- [Hive | Interview Questions]
+https://data-flair.training/blogs/apache-hive-interview-questions/
+
+- [Hive | Interview Questions]
+https://www.tutorialspoint.com/hive/hive_interview_questions.htm
+
