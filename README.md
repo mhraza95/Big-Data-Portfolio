@@ -1,6 +1,6 @@
 # Big Data University
 
-## Tutorial resource list
+## Tutorial Resource List
 
 ### HADOOP
 - [Hadoop | Installation]
