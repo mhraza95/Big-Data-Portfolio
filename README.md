@@ -10,6 +10,10 @@ https://towardsdatascience.com/installing-hadoop-3-2-1-single-node-cluster-on-wi
 ### HDFS
 - [Hadoop Architecture | HDFS Architecture | HDFS Tutorial] [Video]
   https://www.youtube.com/watch?v=m9v9lky3zcE&list=PL9ooVrP1hQOFrYxqxb0NJCdCABPZNo0pD&index=16
+  
+- [HDFS Architecture | HDFS Tutorial] [Video]
+  https://youtu.be/DLutRT6K2rM
+
 
 ### YARN
  - [Hadoop YARN | Hadoop YARN Architecture | Hadoop YARN Tutorial] [Video]
