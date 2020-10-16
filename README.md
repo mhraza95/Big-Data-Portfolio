@@ -64,6 +64,9 @@ https://www.javatpoint.com/what-is-hive
 - [HBase | Tutorial]
 https://sparkbyexamples.com/apache-hbase-tutorial/
 
+- [HBase | Architecture][Blog]
+https://www.guru99.com/hbase-architecture-data-flow-usecases.html
+
 ## Interview Questions
 
 ### Hive
